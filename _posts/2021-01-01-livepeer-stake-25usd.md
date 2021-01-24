@@ -54,7 +54,6 @@ Nothing to do with vampires, it's where you take your crypto, and you loan it in
 
 <img src="/assets/img/lpt-post/lpt_img_1.jpeg" width="500" height="300" alt="" class="center"/>
 
-
 ## How to Stake $25 on Video Transcoding
 
 Let's not get caught up in the details of blockchains, ERC20 tokens and all that. Good fun, but worryingly, not something you need to know to spend money like this.
@@ -70,7 +69,7 @@ There's a lot of info out there on how to do this. For this exercise, I made use
 For Coinbase, there are two phone apps: first is the Coinbase app itself, manage your portfolio etc. There is a second app you need for this little adventure, and that's the Coinbase Wallet app. Easy enough: download, connect to the main app. Transfer your ETH into the 'wallet'.
 
 
-<img src="/assets/img/lpt-post/lpt-img-2.jpeg" width="150" height="300" alt="Ether Success!" class="center"/>
+<img src="/assets/img/lpt-post/lpt-img-2.png" width="150" height="300" alt="Ether Success!" class="center"/>
 
 
 ### 2. Connect your 'Wallet' with your Ether in to LivePeer
@@ -91,7 +90,7 @@ Whilst money makes the world go round, LivePeer Tokens (LPT's) make decentralise
 If you take a look [here](https://etherscan.io/tx/0xb47d3431018093889bb0f5fa344f7b9fe05b9220e474ec33e47c87bfff3b13ca), you see the public record of my transaction from ETH to LPT. If clicking on the link is too much, here's part of the detail, recorded forever in the blockchain...
 
 
-<img src="/assets/img/lpt-post/lpt-img-3.jpeg" alt="Blockchain" class="center"/>
+<img src="/assets/img/lpt-post/lpt-img-3.png" alt="Blockchain" class="center"/>
 
 
 ### 4. Stake your LPT's with an Orchestrator
@@ -111,7 +110,7 @@ I went with the Orchestrator that had quite simply earned the most over time as 
 
 And when everything has gone through:
 
-<img src="/assets/img/lpt-post/lpt-img-5.jpeg"  alt="Staking Confirmed" class="center"/>
+<img src="/assets/img/lpt-post/lpt-img-5.png"  alt="Staking Confirmed" class="center"/>
 
 With projected earnings of 14% per year on my $26.91, I was quite pleased with myself.
 

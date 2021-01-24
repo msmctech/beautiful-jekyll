@@ -13,16 +13,15 @@ publish: true
 
 *Originally Published on October 24, 2020*
 
-# LivePeer staking LinkedIn article
+*Update: January 24, 2021: This is working. My original stake is on track for c.10% annual return, and the value of the coins themselves are going up. So, somewhere along the way, my miniscule offering to the world of decentralised transcoding has helped to transcode some video.*
 
-Mapping to devid.eth
+# LivePeer staking LinkedIn article
 
 I'm fascinated by how decentralised technologies and their possibilities will change the future of broadcast. This tech is still way out there from wide adoption, at least in the broadcast industry. As always, broadcast can be a bit slow to adopt!
 
 Five years ago, 'cloud' was still an uncertainty. No further comment required. Will it be the same with decentralised tech and blockchain? My guess is a firm yes. So I'm exploring and doing my best to understand.
 
-*Let's cover some disclaimers: I have no affiliation with LivePeer or any other
-organisation mentioned here. I am definitely no expert on any of this. 
+*Let's cover some disclaimers: I have no affiliation with LivePeer or any other organisation mentioned here. I am definitely no expert on any of this. 
 This is certainly not a recommendation of investment or any other form of recommendation. It's just me sharing an experiment because I'm curious, and I hope it might trigger some discussion.*
 
 ### What is LivePeer?
@@ -69,7 +68,7 @@ There's a lot of info out there on how to do this. For this exercise, I made use
 
 For Coinbase, there are two phone apps: first is the Coinbase app itself, manage your portfolio etc. There is a second app you need for this little adventure, and that's the Coinbase Wallet app. Easy enough: download, connect to the main app. Transfer your ETH into the 'wallet'.
 
-![Ether Success](/assets/img/lpt-post/lpt-img-2.png)
+![Ether Success](/assets/img/lpt-post/lpt-img-2.png "Ether Success")
 
 ### 2. Connect your 'Wallet' with your Ether in to LivePeer
 
@@ -88,7 +87,7 @@ Whilst money makes the world go round, LivePeer Tokens (LPT's) make decentralise
 
 If you take a look [here](https://etherscan.io/tx/0xb47d3431018093889bb0f5fa344f7b9fe05b9220e474ec33e47c87bfff3b13ca), you see the public record of my transaction from ETH to LPT. If clicking on the link is too much, here's part of the detail, recorded forever in the blockchain...
 
-![Blockchain](/assets/img/lpt-post/lpt-img-3.png)
+![Blockchain](/assets/img/lpt-post/lpt-img-3.png "Blockchain")
 
 ### 4. Stake your LPT's with an Orchestrator
 
@@ -102,11 +101,11 @@ Simply put, an Orchestrator orchestrates transcoding. And this is where it gets,
 
 I went with the Orchestrator that had quite simply earned the most over time as a very rudimentary measure of succes. Click on the Orchestrator of your choice and follow the staking process (very simple).
 
-![Ready to stake](/assets/img/lpt-post/lpt-img-4.png)
+![Ready to stake](/assets/img/lpt-post/lpt-img-4.png "Ready to stake")
 
 And when everything has gone through:
 
-![Stake Confirmed](/assets/img/lpt-post/lpt-img-5.png)
+![Stake Confirmed](/assets/img/lpt-post/lpt-img-5.png "Staking confirmed")
 
 With projected earnings of 14% per year on my $26.91, I was quite pleased with myself.
 

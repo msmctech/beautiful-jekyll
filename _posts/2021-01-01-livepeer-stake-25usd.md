@@ -70,7 +70,7 @@ There's a lot of info out there on how to do this. For this exercise, I made use
 For Coinbase, there are two phone apps: first is the Coinbase app itself, manage your portfolio etc. There is a second app you need for this little adventure, and that's the Coinbase Wallet app. Easy enough: download, connect to the main app. Transfer your ETH into the 'wallet'.
 
 
-<img src="/assets/img/lpt-post/lpt-img-2.jpeg" alt="Ether Success!" class="center"/>
+<img src="/assets/img/lpt-post/lpt-img-2.jpeg" width="150" height="300" alt="Ether Success!" class="center"/>
 
 
 ### 2. Connect your 'Wallet' with your Ether in to LivePeer

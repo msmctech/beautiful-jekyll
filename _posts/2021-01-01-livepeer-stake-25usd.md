@@ -52,6 +52,8 @@ I don't have a room full of GPU's waiting for something to do. Not my thing. Int
 
 Nothing to do with vampires, it's where you take your crypto, and you loan it in return for interest. Just like banks have been doing with your savings since banks were invented.
 
+<img src="/assets/img/lpt-post/lpt_img_1.jpeg" width="200" height="200" />
+
 ![Hex](/assets/img/lpt-post/lpt_img_1.jpeg)
 
 ## How to Stake $25 on Video Transcoding

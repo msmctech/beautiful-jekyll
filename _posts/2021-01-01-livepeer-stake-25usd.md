@@ -52,7 +52,7 @@ I don't have a room full of GPU's waiting for something to do. Not my thing. Int
 
 Nothing to do with vampires, it's where you take your crypto, and you loan it in return for interest. Just like banks have been doing with your savings since banks were invented.
 
-<img src="/assets/img/lpt-post/lpt_img_1.jpeg" width="500" height="300" alt="Paris" class="center"/>
+<img src="/assets/img/lpt-post/lpt_img_1.jpeg" width="500" height="300" alt="" class="center"/>
 
 
 ## How to Stake $25 on Video Transcoding
@@ -69,7 +69,9 @@ There's a lot of info out there on how to do this. For this exercise, I made use
 
 For Coinbase, there are two phone apps: first is the Coinbase app itself, manage your portfolio etc. There is a second app you need for this little adventure, and that's the Coinbase Wallet app. Easy enough: download, connect to the main app. Transfer your ETH into the 'wallet'.
 
-![Ether Success](/assets/img/lpt-post/lpt-img-2.png "Ether Success")
+
+<img src="/assets/img/lpt-post/lpt-img-2.jpeg" alt="Ether Success!" class="center"/>
+
 
 ### 2. Connect your 'Wallet' with your Ether in to LivePeer
 
@@ -88,7 +90,9 @@ Whilst money makes the world go round, LivePeer Tokens (LPT's) make decentralise
 
 If you take a look [here](https://etherscan.io/tx/0xb47d3431018093889bb0f5fa344f7b9fe05b9220e474ec33e47c87bfff3b13ca), you see the public record of my transaction from ETH to LPT. If clicking on the link is too much, here's part of the detail, recorded forever in the blockchain...
 
-![Blockchain](/assets/img/lpt-post/lpt-img-3.png "Blockchain")
+
+<img src="/assets/img/lpt-post/lpt-img-3.jpeg" alt="Blockchain" class="center"/>
+
 
 ### 4. Stake your LPT's with an Orchestrator
 
@@ -102,11 +106,12 @@ Simply put, an Orchestrator orchestrates transcoding. And this is where it gets,
 
 I went with the Orchestrator that had quite simply earned the most over time as a very rudimentary measure of succes. Click on the Orchestrator of your choice and follow the staking process (very simple).
 
-![Ready to stake](/assets/img/lpt-post/lpt-img-4.png "Ready to stake")
+<img src="/assets/img/lpt-post/lpt-img-4.jpeg" alt="Ready to stake" class="center"/>
+
 
 And when everything has gone through:
 
-![Stake Confirmed](/assets/img/lpt-post/lpt-img-5.png "Staking confirmed")
+<img src="/assets/img/lpt-post/lpt-img-5.jpeg"  alt="Staking Confirmed" class="center"/>
 
 With projected earnings of 14% per year on my $26.91, I was quite pleased with myself.
 

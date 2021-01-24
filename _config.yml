@@ -15,11 +15,12 @@ author: Mark Rawlings-Smith
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Resources 2:
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources :
     - Video on Blockchain Projects: ""
+       - LivePeer: "https://livepeer.org"
   LinkedIn: "https://www.linkedin.com/in/markrawlingssmith"
 
 # --- Logo --- #

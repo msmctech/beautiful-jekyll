@@ -105,7 +105,7 @@ Simply put, an Orchestrator orchestrates transcoding. And this is where it gets,
 
 I went with the Orchestrator that had quite simply earned the most over time as a very rudimentary measure of succes. Click on the Orchestrator of your choice and follow the staking process (very simple).
 
-<img src="/assets/img/lpt-post/lpt-img-4.jpeg" alt="Ready to stake" class="center"/>
+<img src="/assets/img/lpt-post/lpt-img-4.png" alt="Ready to stake" class="center"/>
 
 
 And when everything has gone through:

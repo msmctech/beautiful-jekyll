@@ -11,11 +11,11 @@ last-updated: 24-01-2021
 publish: true
 ---
 
-*Originally Published on October 24, 2020*
+*Originally Published [here:](https://www.linkedin.com/pulse/why-i-just-staked-25-livepeer-video-transcoding-mark-rawlings-smith/) on LinkedIn, October 24, 2020*
 
 *Update: January 24, 2021: This is working. My original stake is on track for c.10% annual return, and the value of the coins themselves are going up. So, somewhere along the way, my miniscule offering to the world of decentralised transcoding has helped to transcode some video.*
 
-# LivePeer staking LinkedIn article
+# LivePeer Video Transcoding : Staking
 
 I'm fascinated by how decentralised technologies and their possibilities will change the future of broadcast. This tech is still way out there from wide adoption, at least in the broadcast industry. As always, broadcast can be a bit slow to adopt!
 

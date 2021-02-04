@@ -1,15 +1,3 @@
----
-layout: post
-title: Workflow: Notion-Atom-GitHub-Fleek-IPFS-devid.eth.link
-subtitle: How I publish content to this Decentralised site
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [Fleek]
-show-avatar: false
-last-updated: 04-02-2021
-publish: true
----
 
 # Workflow for publishing posts
 
